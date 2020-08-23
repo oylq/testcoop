@@ -28,7 +28,7 @@ define("APP_DB_USER_CCURE", "appdemosql");
 define("APP_DB_CRED_CCURE", "eree3le");
 
 
-
+// link to mssql
 	$step = "";
     $link = NULL;
     $stmtMSSQL = NULL;
